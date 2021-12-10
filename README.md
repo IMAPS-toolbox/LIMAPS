@@ -1,4 +1,4 @@
-<a href="https://github.com/IMAPS-toolbox/LIMAPS/main/README.md">LIMAPS</a> 
+<a href="https://github.com/IMAPS-toolbox/LIMAPS#readme">LIMAPS</a> 
 
 LIMAPS (Legal Interoperability Maturity Assessment of a Public Service) is a user-friendly online questionnaire, designed as a self-assessment tool to assist public service owners to evaluate key legal interoperability aspects of their digital public service.
 
