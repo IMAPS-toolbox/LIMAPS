@@ -9,6 +9,7 @@ Do you think that there is any item (question) missing? (Yes/No | Rationale)
 IMAPS team suggests to add an item related to the (new version of) EIRA v4.1.0 ABB 'Legislation on Data, Information and Knowledge Exchange'. Do you have any suggestions? (Yes/No | Rationale)
 
 Note: The EIRA ABB ‘Legislation on data Information and Knowledge Exchange’ is a legal act on the exchange of data, information, and knowledge between different agents (private and public) at national and/or cross-border level. More info: https://joinup.ec.europa.eu/collection/european-interoperability-reference-architecture-eira/solution/eira/release/v410
+
 IMAPS team suggests to add an item related to the EIRA v4.1.0 ABB ‘Shared Legal Framework’. Do you have any suggestions? (Yes/No | Rationale)
 Note: The EIRA ABB ‘Shared Legal Framework’ is formed by [re]usable legal resources, with convergence power, in relation to public policy goals attainment. More Info: https://joinup.ec.europa.eu/collection/european-interoperability-reference-architecture-eira/solution/eira/release/v410
 
