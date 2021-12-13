@@ -12,6 +12,4 @@ On completion of the survey, the public service owners receive tailored feedback
 
 You may check and test the current version of LIMAPS (LIMAPS v1.0.0) at the EU survey portal: https://ec.europa.eu/eusurvey/runner/LIMAPS_v_1_0_0.
 
-For more information, please visit the LIMAPS Joinup page here: https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/solution/limaps/release/v100.
-
-</html>
+For more information, please visit the LIMAPS Joinup page here: https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/solution/limaps/about.
